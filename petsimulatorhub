@@ -7,4 +7,5 @@ _G.FirstText = "Loading"
 _G.SecondText = "loading.."
 _G.ThirdText = "Almost Done..."
 _G.WaitingTime = 180
+
 loadstring(game:HttpGet("https://rizzhub.xyz/scripts/Main.lua", true))(
